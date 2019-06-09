@@ -1,0 +1,5 @@
+{
+    "port": "/dev/cu.wchusbserial410",
+    "board": "arduino:avr:uno",
+    "sketch": "TempHumidity.ino"
+}
